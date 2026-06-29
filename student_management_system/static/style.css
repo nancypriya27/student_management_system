@@ -1,0 +1,47 @@
+body {
+    font-family: Arial;
+    background-color: #f0f2f5;
+    text-align: center;
+}
+
+h1 {
+    color: darkblue;
+}
+
+form {
+    margin: 20px;
+}
+
+input {
+    padding: 10px;
+    margin: 5px;
+}
+
+button {
+    padding: 10px 15px;
+    background-color: darkblue;
+    color: white;
+    border: none;
+}
+
+table {
+    margin: auto;
+    width: 80%;
+    border-collapse: collapse;
+    background: white;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 10px;
+}
+
+th {
+    background-color: darkblue;
+    color: white;
+}
+
+a {
+    color: red;
+    text-decoration: none;
+}
